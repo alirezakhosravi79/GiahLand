@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --color-orginal: rgba(255, 255, 255, 1);
+    --color-title: rgba(65, 127, 86, 1);
+}
