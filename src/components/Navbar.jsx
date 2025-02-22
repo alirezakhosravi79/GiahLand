@@ -1,6 +1,8 @@
 import { NavLink } from "react-router";
 
-import Login from "../assets/loginnav.png"
+import Login from "../assets/loginnav.png";
+import Basket from "../assets/basket.png";
+import Search from "../assets/search.png";
 
 function Navbar() {
   return (
@@ -26,11 +28,18 @@ function Navbar() {
             <h3 className="text-black text-[18px]">درباره ما</h3>
           </NavLink>
         </div>
-        <div>
-            <NavLink className="flex gap-3 items-center border border-title rounded-xl p-3">
-                <img src={Login} alt="login" className="w-[20px] h-[18px]"/>
-                <h3 className="text-title">ورود / ثبت نام </h3>
-            </NavLink>
+        <div className="flex items-center gap-5">
+          <NavLink>
+            <img src={Search} alt="Search" className="items-center border border-title rounded-xl p-3"/>
+          </NavLink>
+          <NavLink>
+            <img src={Basket} alt="Basket" className="items-center border border-title rounded-xl p-3"/>
+          </NavLink>
+
+          <NavLink className="flex gap-3 items-center border border-title rounded-xl p-3">
+            <img src={Login} alt="login" className="w-[20px] h-[18px]" />
+            <h3 className="text-title">ورود / ثبت نام </h3>
+          </NavLink>
         </div>
       </div>
     </div>
