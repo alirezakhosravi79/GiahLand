@@ -1,5 +1,6 @@
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
+import Utility from "../components/Utility"
 
 function Home() {
   return (
@@ -7,6 +8,7 @@ function Home() {
       <Navbar />
       <hr />
       <Hero />
+      <Utility />
     </>
   )
 }
