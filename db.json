@@ -1,0 +1,263 @@
+
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "تزئینی"
+      },
+      {
+        "id": 2,
+        "name": "آپارتمانی"
+      },
+    {
+        "id": 4,
+        "name": "1-آپارتمانی"
+      },
+      {
+        "id": 3,
+        "name": "کادویی"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "گیاه طبیعی بابا ادم",
+        "image": "https://s6.uupload.ir/files/frame_11_oh7i.png",
+        "price": 250000,
+        "weight": "2 کیلوگرم",
+        "sunlightCondition": "نیاز به نور غیرمستقیم",
+        "dimensions": "30x30x50 سانتی‌متر",
+        "potMaterial": "سرامیک",
+        "soilType": "خاک برگ",
+        "categoryId": 2
+      },
+      {
+        "id": 2,
+        "name": "گیاه طبیعی یوکا",
+        "image": "https://s6.uupload.ir/files/frame_11_(1)_fk3.png",
+        "price": 180000,
+        "weight": "1.5 کیلوگرم",
+        "sunlightCondition": "نیاز به نور متوسط",
+        "dimensions": "25x25x40 سانتی‌متر",
+        "potMaterial": "پلاستیک",
+        "soilType": "خاک مخصوص کاکتوس",
+        "categoryId": 2
+      },
+      {
+        "id": 3,
+        "name": " گیاه طبیعی سانسوریا سبز",
+        "image": "https://s6.uupload.ir/files/frame_11_(2)_wyg9.png",
+        "price": 200000,
+        "weight": "1.8 کیلوگرم",
+        "sunlightCondition": "نیاز به نور کم",
+        "dimensions": "35x35x60 سانتی‌متر",
+        "potMaterial": "چوب",
+        "soilType": "خاک باغچه",
+        "categoryId": 2
+      },
+      {
+        "id": 4,
+        "name": "ساکوگیاه طبیعی ساکولنتلنت",
+        "image": "https://s6.uupload.ir/files/frame_11_(3)_7vjd.png",
+        "price": 150000,
+        "weight": "1 کیلوگرم",
+        "sunlightCondition": "نیاز به نور زیاد",
+        "dimensions": "20x20x30 سانتی‌متر",
+        "potMaterial": "فلز",
+        "soilType": "خاک کوکوپیت",
+        "categoryId": 2
+      },
+      {
+        "id": 5,
+        "name": "گیاه بونسای",
+        "image": "https://s6.uupload.ir/files/952965b2c0ac8708235ecc9d8aae0217_s8qx.png",
+        "price": 300000,
+        "weight": "2.5 کیلوگرم",
+        "sunlightCondition": "نیاز به نور غیرمستقیم",
+        "dimensions": "40x40x70 سانتی‌متر",
+        "potMaterial": "سرامیک",
+        "soilType": "خاک مخلوط",
+        "categoryId": 4
+      },
+      {
+        "id": 6,
+        "name": "گیاه پتوس",
+        "image": "https://s6.uupload.ir/files/7b6c12626d7c56481b020623973dfa3b_yvip.png",
+        "price": 220000,
+        "weight": "1.7 کیلوگرم",
+        "sunlightCondition": "نیاز به نور متوسط",
+        "dimensions": "30x30x50 سانتی‌متر",
+        "potMaterial": "پلاستیک",
+        "soilType": "خاک مخصوص",
+        "categoryId": 4
+      },
+      {
+        "id": 7,
+        "name": "گیاه پاچیرا",
+        "image": "https://s6.uupload.ir/files/f701cfd22c0b2b9d1f7cf4f72f14225b_h36.png",
+        "price": 280000,
+        "weight": "2 کیلوگرم",
+        "sunlightCondition": "نیاز به نور کم",
+        "dimensions": "35x35x60 سانتی‌متر",
+        "potMaterial": "چوب",
+        "soilType": "خاک باغچه",
+        "categoryId": 4
+      },
+      {
+        "id": 8,
+        "name": "گیاه طبیعی کراسولا",
+        "image": "https://s6.uupload.ir/files/frame_11_(4)_ixcx.png",
+        "price": 170000,
+        "weight": "1.2 کیلوگرم",
+        "sunlightCondition": "نیاز به نور زیاد",
+        "dimensions": "25x25x40 سانتی‌متر",
+        "potMaterial": "فلز",
+        "soilType": "خاک کوکوپیت",
+        "categoryId": 1
+      },
+      {
+        "id": 9,
+        "name": "گیاه طبیعی یشم",
+        "image": "https://s6.uupload.ir/files/frame_11_(5)_5lza.png",
+        "price": 190000,
+        "weight": "1.3 کیلوگرم",
+        "sunlightCondition": "نیاز به نور غیرمستقیم",
+        "dimensions": "30x30x50 سانتی‌متر",
+        "potMaterial": "سرامیک",
+        "soilType": "خاک مخلوط",
+        "categoryId": 1
+      },
+      {
+        "id": 10,
+        "name": "گیاه طبیعی بونسای پاچیرا",
+        "image": "https://s6.uupload.ir/files/frame_11_(6)_np.png",
+        "price": 320000,
+        "weight": "2.2 کیلوگرم",
+        "sunlightCondition": "نیاز به نور متوسط",
+        "dimensions": "40x40x70 سانتی‌متر",
+        "potMaterial": "چوب",
+        "soilType": "خاک باغچه",
+        "categoryId": 1
+      },
+      {
+        "id": 11,
+        "name": "گیاه طبیعی کراسولا خرفه ای",
+        "image": "https://s6.uupload.ir/files/frame_11_(7)_g6r.png",
+        "price": 160000,
+        "weight": "1.1 کیلوگرم",
+        "sunlightCondition": "نیاز به نور کم",
+        "dimensions": "25x25x30 سانتی‌متر",
+        "potMaterial": "پلاستیک",
+        "soilType": "خاک مخصوص",
+        "categoryId": 1
+      },
+      {
+        "id": 12,
+        "name": "گیاه رزماری",
+        "image": "https://s6.uupload.ir/files/2377b08be5baf1ddff1d185ee8682ff3_thb3.png",
+        "price": 140000,
+        "weight": "1 کیلوگرم",
+        "sunlightCondition": "نیاز به نور زیاد",
+        "dimensions": "20x20x25 سانتی‌متر",
+        "potMaterial": "فلز",
+        "soilType": "خاک کوکوپیت",
+        "categoryId": 1
+      },
+      {
+        "id": 13,
+        "name": " گیاه ادیوم",
+        "image": "https://s6.uupload.ir/files/653fb3b0d82f9d804861fd4a9c718bc5_35ot.png",
+        "price": 210000,
+        "weight": "1.5 کیلوگرم",
+        "sunlightCondition": "نیاز به نور غیرمستقیم",
+        "dimensions": "30x30x50 سانتی‌متر",
+        "potMaterial": "سرامیک",
+        "soilType": "خاک مخلوط",
+        "categoryId": 1
+      },
+      {
+        "id": 14,
+        "name": "گیاه اشیانتوس",
+        "image": "https://s6.uupload.ir/files/2af8e0551d0793c47d762e5dd405388c_av82.png",
+        "price": 230000,
+        "weight": "1.6 کیلوگرم",
+        "sunlightCondition": "نیاز به نور متوسط",
+        "dimensions": "35x35x60 سانتی‌متر",
+        "potMaterial": "چوب",
+        "soilType": "خاک باغچه",
+        "categoryId": 1
+      },
+      {
+        "id": 15,
+        "name": "گیاه اناناسی",
+        "image": "https://s6.uupload.ir/files/9e75ea71c61ad7b6af79e5d32dc68335_8f1y.png", 
+        "price": 270000,
+        "weight": "1.8 کیلوگرم",
+        "sunlightCondition": "نیاز به نور کم",
+        "dimensions": "40x40x70 سانتی‌متر",
+        "potMaterial": "فلز",
+        "soilType": "خاک کوکوپیت",
+        "categoryId": 1
+      },
+      {
+        "id": 16,
+        "name": "گیاه طبیعی بنت قنسول گلیتال",
+        "image": "https://s6.uupload.ir/files/frame_11_(8)_vqih.png",
+        "price": 290000,
+        "weight": "2 کیلوگرم",
+        "sunlightCondition": "نیاز به نور زیاد",
+        "dimensions": "30x30x50 سانتی‌متر",
+        "potMaterial": "سرامیک",
+        "soilType": "خاک مخلوط",
+        "categoryId": 3
+      },
+      {
+        "id": 17,
+        "name": "گیاه طبیعی آنتوریوم",
+        "image": "https://s6.uupload.ir/files/frame_11_(9)_p97f.png",
+        "price": 310000,
+        "weight": "2.3 کیلوگرم",
+        "sunlightCondition": "نیاز به نور غیرمستقیم",
+        "dimensions": "35x35x60 سانتی‌متر",
+        "potMaterial": "چوب",
+        "soilType": "خاک باغچه",
+        "categoryId": 3
+      },
+      {
+        "id": 18,
+        "name": "گیاه طبیعی بونسای پاچیرا",
+        "image": "https://s6.uupload.ir/files/frame_11_(10)_wdp2.png",
+        "price": 180000,
+        "weight": "1.2 کیلوگرم",
+        "sunlightCondition": "نیاز به نور متوسط",
+        "dimensions": "25x25x30 سانتی‌متر",
+        "potMaterial": "پلاستیک",
+        "soilType": "خاک مخصوص",
+        "categoryId": 3
+      },
+      {
+        "id": 19,
+        "name": "رزمگیاه طبیعی آنتوریوماری",
+        "image": "https://s6.uupload.ir/files/frame_11_(11)_i4s.png",
+        "price": 150000,
+        "weight": "1 کیلوگرم",
+        "sunlightCondition": "نیاز به نور زیاد",
+        "dimensions": "20x20x25 سانتی‌متر",
+        "potMaterial": "فلز",
+        "soilType": "خاک کوکوپیت",
+        "categoryId": 3
+      },
+      {
+        "id": 20,
+        "name": "گیاه سانسوریا",
+        "image": "https://s6.uupload.ir/files/257f382a0a81569b76df9c31d68b31cd_v1zr.png",
+        "price": 200000,
+        "weight": "1.5 کیلوگرم",
+        "sunlightCondition": "نیاز به نور غیرمستقیم",
+        "dimensions": "30x30x50 سانتی‌متر",
+        "potMaterial": "سرامیک",
+        "soilType": "خاک مخلوط",
+        "categoryId": 4
+      }
+    ]
+  }
