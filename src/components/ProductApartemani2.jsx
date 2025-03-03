@@ -16,11 +16,11 @@ const ProductApartemani2 = () => {
   }, []);
 
   return (
-    <div className=" ">
+    <div className="flex flex-wrap gap-4 p-4 ">
       {images.map((product, index) => (
         <div
           key={product.id}
-          className="h-[240px]"
+          className="w-64 h-64 bg-cover bg-center rounded-lg shadow-lg"
           style={{ backgroundImage: `url(${product.image})` }}
         >
           {/* محتوای دیگر */}
